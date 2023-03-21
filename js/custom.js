@@ -13,7 +13,7 @@
 
   // Owl Carousel
   $(".owl-carousel").owlCarousel({
-    autoplayTimeout: 6000,
+    autoplayTimeout: 10000,
     animateOut: "fadeOut",
     items: 1,
     loop: true,
